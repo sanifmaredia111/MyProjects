@@ -1,0 +1,14 @@
+C:\Program Files (x86)\S-Interface\Plugins\ShimmerPlugin.dll
+C:\Users\Pradeep Buddharaju\Desktop\ShimmerPlugin\ShimmerPlugin\obj\Debug\ShimmerPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Pradeep Buddharaju\Desktop\ShimmerPlugin\ShimmerPlugin\obj\Debug\ShimmerPlugin.ShimmerPluginUI.resources
+C:\Users\Pradeep Buddharaju\Desktop\ShimmerPlugin\ShimmerPlugin\obj\Debug\ShimmerPlugin.csproj.GenerateResource.Cache
+C:\Users\Pradeep Buddharaju\Desktop\ShimmerPlugin\ShimmerPlugin\obj\Debug\ShimmerPlugin.dll
+C:\Users\Pradeep Buddharaju\Desktop\ShimmerPlugin\ShimmerPlugin\obj\Debug\ShimmerPlugin.pdb
+C:\Program Files (x86)\S-Interface\Plugins\ShimmerPlugin.pdb
+C:\Users\cheen\Program Files (x86)\S-Interface\Plugins\ShimmerPlugin.dll
+C:\Users\cheen\Program Files (x86)\S-Interface\Plugins\ShimmerPlugin.pdb
+C:\Users\cheen\Desktop\capstone\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\Debug\ShimmerPlugin.ShimmerPluginUI.resources
+C:\Users\cheen\Desktop\capstone\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\Debug\ShimmerPlugin.csproj.GenerateResource.Cache
+C:\Users\cheen\Desktop\capstone\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\Debug\ShimmerPlugin.dll
+C:\Users\cheen\Desktop\capstone\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\Debug\ShimmerPlugin.pdb
+C:\Users\cheen\Desktop\capstone\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\Debug\ShimmerPlugin.csprojResolveAssemblyReference.cache

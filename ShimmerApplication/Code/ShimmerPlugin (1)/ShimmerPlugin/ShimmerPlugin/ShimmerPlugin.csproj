@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{40DEE3F8-FCE8-4155-BE02-AD87C34713C9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ShimmerPlugin</RootNamespace>
+    <AssemblyName>ShimmerPlugin</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\..\Program Files %28x86%29\S-Interface\Plugins\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\..\..\..\..\..\..\Program Files %28x86%29\S-Interface\Plugins\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>..\..\..\..\Plugins\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ExceptionReporter.WinForms">
+      <HintPath>..\..\..\..\..\ShimmerPluginupdated123\ShimmerPlugin\ExceptionReporter.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="InTheHand.Net.Personal">
+      <HintPath>..\..\..\..\OtherDLLs\InTheHand.Net.Personal.dll</HintPath>
+    </Reference>
+    <Reference Include="MathNet.Numerics">
+      <HintPath>..\..\..\..\..\ShimmerPluginupdated123\ShimmerPlugin\MathNet.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK">
+      <HintPath>..\..\..\..\OtherDLLs\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK.Compatibility">
+      <HintPath>..\..\..\..\OtherDLLs\OpenTK.Compatibility.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK.GLControl">
+      <HintPath>..\..\..\..\OtherDLLs\OpenTK.GLControl.dll</HintPath>
+    </Reference>
+    <Reference Include="PluginInterface, Version=1.0.6306.25257, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\PluginInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="Properties.Resources.Designer.cs, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Users\cheen\Desktop\capstone\ShimmerCapture(23-3-17)Newold\ShimmerCapture\ShimmerCapture\Resources\obj\x86\Debug\TempPE\Properties.Resources.Designer.cs.dll</HintPath>
+    </Reference>
+    <Reference Include="ShimmerClosedLibraryRev0_4, Version=0.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Plugins\ShimmerClosedLibraryRev0_4.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph, Version=5.1.1.428, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Plugins\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configuration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuration.Designer.cs">
+      <DependentUpon>Configuration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Control.Designer.cs">
+      <DependentUpon>Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filter.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs" />
+    <Compile Include="Form11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Form1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="FormAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAbout.Designer.cs">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateCheck.Designer.cs">
+      <DependentUpon>FormUpdateCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateInstall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateInstall.Designer.cs">
+      <DependentUpon>FormUpdateInstall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="GradDes3DOrientation.cs" />
+    <Compile Include="Logging.cs" />
+    <Compile Include="ObjectCluster.cs" />
+    <Compile Include="Orientation3D.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Orientation3D.designer.cs">
+      <DependentUpon>Orientation3D.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\SharedAssemblyInfo.cs" />
+    <Compile Include="Resources.Designer.cs" />
+    <Compile Include="Resources1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SensorData.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="Settings.Designer.cs" />
+    <Compile Include="Settings1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Shimmer.cs" />
+    <Compile Include="Shimmer32Feet.cs" />
+    <Compile Include="ShimmerBluetooth.cs" />
+    <Compile Include="ShimmerPlugin.cs" />
+    <Compile Include="ShimmerPluginUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShimmerPluginUI.Designer.cs">
+      <DependentUpon>ShimmerPluginUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShimmerSDBT.cs" />
+    <Compile Include="ShimmerSDBT32Feet.cs" />
+    <Compile Include="TextBoxStreamWriter.cs" />
+    <Compile Include="UserControlExgConfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlExgConfig.Designer.cs">
+      <DependentUpon>UserControlExgConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlGeneralConfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlGeneralConfig.Designer.cs">
+      <DependentUpon>UserControlGeneralConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlSdConfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlSdConfig.designer.cs">
+      <DependentUpon>UserControlSdConfig.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Configuration.resx">
+      <DependentUpon>Configuration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control.resx">
+      <DependentUpon>Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Form11.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAbout.resx">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateCheck.resx">
+      <DependentUpon>FormUpdateCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateInstall.resx">
+      <DependentUpon>FormUpdateInstall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Orientation3D.resx">
+      <DependentUpon>Orientation3D.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShimmerPluginUI.resx">
+      <DependentUpon>ShimmerPluginUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlExgConfig.resx">
+      <DependentUpon>UserControlExgConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlGeneralConfig.resx">
+      <DependentUpon>UserControlGeneralConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlSdConfig.resx">
+      <DependentUpon>UserControlSdConfig.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings1.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="libs\" />
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

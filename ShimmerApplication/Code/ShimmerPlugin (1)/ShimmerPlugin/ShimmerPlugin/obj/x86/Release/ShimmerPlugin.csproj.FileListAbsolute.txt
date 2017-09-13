@@ -1,0 +1,21 @@
+C:\Program Files (x86)\S-Interface\ShimmerPlugin.dll.config
+C:\Program Files (x86)\S-Interface\ShimmerPlugin.dll
+C:\Program Files (x86)\S-Interface\ShimmerPlugin.pdb
+C:\Program Files (x86)\S-Interface\Plugins\ShimmerPlugin.dll.config
+C:\Program Files (x86)\S-Interface\Plugins\ShimmerPlugin.dll
+C:\Program Files (x86)\S-Interface\Plugins\ShimmerPlugin.pdb
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Release\ShimmerAPI.Configuration.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Release\ShimmerAPI.Control.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Release\ShimmerPlugin.Form1.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Release\ShimmerAPI.FormAbout.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Release\ShimmerAPI.FormUpdateCheck.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Release\ShimmerAPI.FormUpdateInstall.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Release\ShimmerAPI.Orientation3D.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Release\ShimmerPlugin.Resources.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Release\ShimmerPlugin.ShimmerPluginUI.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Release\ShimmerAPI.UserControlExgConfig.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Release\ShimmerAPI.UserControlGeneralConfig.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Release\ShimmerAPI.UserControlSdConfig.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Release\ShimmerPlugin.csproj.GenerateResource.Cache
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Release\ShimmerPlugin.dll
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Release\ShimmerPlugin.pdb

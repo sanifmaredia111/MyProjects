@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>567633306423-tgtp5ippo3i2f7uhoir2al73gold0tch.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.567633306423-tgtp5ippo3i2f7uhoir2al73gold0tch</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBD7xtUFcY5tWxJEYb9MQUV8Ezkbt7qi3w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>567633306423</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.capstone1.HeartRateExporter</string>
+	<key>PROJECT_ID</key>
+	<string>healthkitheartrateexporter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>healthkitheartrateexporter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:567633306423:ios:dcd5575ac946b622</string>
+	<key>DATABASE_URL</key>
+	<string>https://healthkitheartrateexporter.firebaseio.com</string>
+</dict>
+</plist>

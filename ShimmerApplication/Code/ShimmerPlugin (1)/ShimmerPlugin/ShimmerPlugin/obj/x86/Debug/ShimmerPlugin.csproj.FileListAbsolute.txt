@@ -1,0 +1,77 @@
+C:\Users\cheen\Desktop\capstone\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.ShimmerPluginUI.resources
+C:\Users\cheen\Desktop\capstone\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.csproj.GenerateResource.Cache
+C:\Users\cheen\Desktop\capstone\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\bin\x86\Debug\ShimmerPlugin.dll
+C:\Users\cheen\Desktop\capstone\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\bin\x86\Debug\ShimmerPlugin.pdb
+C:\Users\cheen\Desktop\capstone\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\bin\x86\Debug\PluginInterface.dll
+C:\Users\cheen\Desktop\capstone\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\bin\x86\Debug\PluginInterface.pdb
+C:\Users\cheen\Desktop\capstone\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.csprojResolveAssemblyReference.cache
+C:\Users\cheen\Desktop\capstone\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.dll
+C:\Users\cheen\Desktop\capstone\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.pdb
+C:\Users\cheen\Desktop\capstone\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.Properties.Resources.resources
+C:\Program Files (x86)\S-Interface\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.Configuration.resources
+C:\Program Files (x86)\S-Interface\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.Control.resources
+C:\Program Files (x86)\S-Interface\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.FormAbout.resources
+C:\Program Files (x86)\S-Interface\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.FormUpdateCheck.resources
+C:\Program Files (x86)\S-Interface\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.FormUpdateInstall.resources
+C:\Program Files (x86)\S-Interface\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.Orientation3D.resources
+C:\Program Files (x86)\S-Interface\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.Resources.resources
+C:\Program Files (x86)\S-Interface\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.ShimmerPluginUI.resources
+C:\Program Files (x86)\S-Interface\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.UserControlExgConfig.resources
+C:\Program Files (x86)\S-Interface\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.UserControlGeneralConfig.resources
+C:\Program Files (x86)\S-Interface\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.UserControlSdConfig.resources
+C:\Program Files (x86)\S-Interface\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.csproj.GenerateResource.Cache
+C:\Program Files (x86)\S-Interface\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.dll
+C:\Program Files (x86)\S-Interface\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.pdb
+C:\Program Files (x86)\S-Interface\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.Form1.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.Configuration.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.Control.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.Form1.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.FormAbout.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.FormUpdateCheck.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.FormUpdateInstall.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.Orientation3D.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.Resources.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.ShimmerPluginUI.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.UserControlExgConfig.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.UserControlGeneralConfig.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.UserControlSdConfig.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.csproj.GenerateResource.Cache
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.dll
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.pdb
+C:\Users\Program Files (x86)\S-Interface\Plugins\ShimmerPlugin.dll.config
+C:\Users\Program Files (x86)\S-Interface\Plugins\ShimmerPlugin.dll
+C:\Users\Program Files (x86)\S-Interface\Plugins\ShimmerPlugin.pdb
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin 4-28-17(1)\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.Configuration.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin 4-28-17(1)\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.Control.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin 4-28-17(1)\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.Form1.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin 4-28-17(1)\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.FormAbout.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin 4-28-17(1)\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.FormUpdateCheck.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin 4-28-17(1)\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.FormUpdateInstall.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin 4-28-17(1)\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.Orientation3D.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin 4-28-17(1)\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.Resources.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin 4-28-17(1)\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.ShimmerPluginUI.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin 4-28-17(1)\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.UserControlExgConfig.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin 4-28-17(1)\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.UserControlGeneralConfig.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin 4-28-17(1)\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.UserControlSdConfig.resources
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin 4-28-17(1)\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.csproj.GenerateResource.Cache
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin 4-28-17(1)\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.dll
+C:\Users\cheen\Desktop\ShimmerPlugin (1)new 4-27-17\ShimmerPlugin 4-28-17(1)\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.pdb
+C:\Program Files (x86)\S-Interface\Plugins\ShimmerPlugin.dll.config
+C:\Program Files (x86)\S-Interface\Plugins\ShimmerPlugin.dll
+C:\Program Files (x86)\S-Interface\Plugins\ShimmerPlugin.pdb
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.Configuration.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.Control.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.Form1.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.FormAbout.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.FormUpdateCheck.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.FormUpdateInstall.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.Orientation3D.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.Resources.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.ShimmerPluginUI.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.UserControlExgConfig.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.UserControlGeneralConfig.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerAPI.UserControlSdConfig.resources
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.csproj.GenerateResource.Cache
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.dll
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.pdb
+C:\Program Files (x86)\S-Interface\Shimmer Plugin mostnlatest\ShimmerPlugin (1)\ShimmerPlugin\ShimmerPlugin\obj\x86\Debug\ShimmerPlugin.csprojResolveAssemblyReference.cache
